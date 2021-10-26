@@ -1,7 +1,6 @@
 # animation-with-css
 Übungen zum Thema Animationen mit CSS aus dem Studium Multimedia Production August 2018
-<html lang="de"><!-- Ziel ist es, dass der rechte Button sanft vergrössert wird -->
-    <head>
+<html lang="de"><!-- Ziel ist es, dass der rechte Button sanft vergrössert wird --><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Transition Button</title>
@@ -45,14 +44,13 @@
     <div class="wrap">
         <div class="container">
             <h1>Ohne transition</h1>
-            <div class="box1"></div>
+            <div class="box1 box"></div>
     </div>
     <div class="container">
         <h1>Mit transition</h1>
-        <div class="box2"></div>
+        <div class="box2 box"></div>
     </div>
     </div>
 
 
-</body>
-</html>
+</body></html>
