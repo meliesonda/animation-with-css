@@ -45,11 +45,11 @@
     <div class="wrap">
         <div class="container">
             <h1>Ohne transition</h1>
-            <div class="box1 box"></div>
+            <div class="box1"></div>
     </div>
     <div class="container">
         <h1>Mit transition</h1>
-        <div class="box2 box"></div>
+        <div class="box2"></div>
     </div>
     </div>
 
